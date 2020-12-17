@@ -6,7 +6,7 @@ Trabalho como desenvolvedor web 👨🏾‍💻 na [Síntese Jr](http://sintesej
 
 Como você pode me encontrar por aí como:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Guilherme%20Balog-blue?style=social&logo=Linkedin&logoColor=282a36&link=https://www.linkedin.com/in/guilherme-balog-gardino-233ab2186/)](https://www.linkedin.com/in/guilherme-balog-gardino-233ab2186/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Guilherme%20Balog-blue?style=social&logo=Linkedin&logoColor=282a36&link=https://www.linkedin.com/in/guilherme-balog-gardino-233ab2186/)](https://www.linkedin.com/in/guilherme-balog-gardino-233ab2186/)
 [![Instagram Badge](https://img.shields.io/badge/-baloguii-blue?style=social&logo=Instagram&logoColor=282a36&link=https://www.instagram.com/baloguii/)](https://www.instagram.com/baloguii/)
 
 ### Minhas tecnologias preferidas do momento
@@ -27,8 +27,9 @@ Como você pode me encontrar por aí como:
 ![PHP](https://img.shields.io/badge/-PHP-44475a?style=flat-square&logo=php&logoColor=f8f8f2)
 ![CPP](https://img.shields.io/badge/-C++-44475a?style=flat-square&logo=c%2B%2B&logoColor=f8f8f2)
 ![Unity](https://img.shields.io/badge/-Unity-44475a?style=flat-square&logo=unity&logoColor=f8f8f2)
- 
-![Guilherme's github stats](https://github-readme-stats.vercel.app/api?username=guilhermebalog&theme=dracula&show_icons=true)
+
+<!-- Coloquei grudado assim pra ficar na mesma linha -->
+![Linguagens mais usadas do Guilherme Balog](https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebalog&theme=dracula&layout=compact&custom_title=Linguagens%20mais%20usadas&langs_count=6) ![Status do Github do Guilherme Balog](https://github-readme-stats.vercel.app/api?username=guilhermebalog&theme=dracula&show_icons=true&layout=compact&hide_title=true&hide_rank=true&include_all_commits=true&hide_border=true&count_private=true&disable_animations=true)
 
 <!--
 **GuilhermeBalog/guilhermebalog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
