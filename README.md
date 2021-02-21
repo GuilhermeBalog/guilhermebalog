@@ -6,8 +6,8 @@ Trabalho como desenvolvedor web 👨🏾‍💻 na [Síntese Jr](http://sintesej
 
 Como você pode me encontrar por aí como:
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Guilherme%20Balog-blue?style=social&logo=Linkedin&logoColor=282a36&link=https://www.linkedin.com/in/guilherme-balog-gardino-233ab2186/)](https://www.linkedin.com/in/guilherme-balog-gardino-233ab2186/)
-[![Instagram Badge](https://img.shields.io/badge/-baloguii-blue?style=social&logo=Instagram&logoColor=282a36&link=https://www.instagram.com/baloguii/)](https://www.instagram.com/baloguii/)
+[![LinkedIn Badge](https://img.shields.io/badge/-Guilherme%20Balog-blue?style=social&logo=Linkedin&logoColor=282a36&link=https://www.linkedin.com/in/guilhermebalog/)](https://www.linkedin.com/in/guilherme-balog-gardino-233ab2186/)
+[![Instagram Badge](https://img.shields.io/badge/-guilhermebalog-blue?style=social&logo=Instagram&logoColor=282a36&link=https://www.instagram.com/guilhermebalog/)](https://www.instagram.com/guilhermebalog/)
 
 ### Minhas tecnologias preferidas do momento
 
