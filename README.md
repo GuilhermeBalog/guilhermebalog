@@ -2,12 +2,12 @@
 
 Sou programador júnior, técnico em informática pela ETEC de Itanhaém e atualmente cursando bacharelado em Sistemas de Informação pela Universidade de São Paulo (USP).
 
-Trabalho como desenvolvedor web 👨🏾‍💻 na [Síntese Jr](http://sintesejr.com.br/), principalmente com Node.js e React.
+Trabalho como desenvolvedor web 👨🏾‍💻 na [Síntese Jr](https://sintesejr.com.br/), principalmente com Node.js e React.
 
 Como você pode me encontrar por aí como:
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Guilherme%20Balog-blue?style=social&logo=Linkedin&logoColor=282a36&link=https://www.linkedin.com/in/guilhermebalog/)](https://www.linkedin.com/in/guilherme-balog-gardino-233ab2186/)
-[![Instagram Badge](https://img.shields.io/badge/-guilhermebalog-blue?style=social&logo=Instagram&logoColor=282a36&link=https://www.instagram.com/guilhermebalog/)](https://www.instagram.com/guilhermebalog/)
+[![LinkedIn Badge](https://img.shields.io/badge/-%2Fin%2Fguilhermebalog-blue?style=social&logo=Linkedin&logoColor=282a36&link=https://www.linkedin.com/in/guilhermebalog/)](https://www.linkedin.com/in/guilhermebalog/)
+[![Instagram Badge](https://img.shields.io/badge/-%2Fguilhermebalog-blue?style=social&logo=Instagram&logoColor=282a36&link=https://www.instagram.com/guilhermebalog/)](https://www.instagram.com/guilhermebalog/)
 
 ### Minhas tecnologias preferidas do momento
 
