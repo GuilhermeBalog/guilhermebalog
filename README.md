@@ -2,12 +2,13 @@
 
 Meu nome é **Guilherme Balog Gardino** (ele/dele/he/his) e sou programador júnior, técnico em informática pela [ETEC de Itanhaém](https://www.etecitanhaem.com.br/) e atualmente cursando bacharelado em Sistemas de Informação pela [Universidade de São Paulo (USP)](https://www5.usp.br/).
 
-Trabalho como desenvolvedor 👨🏾‍💻 na [PagSeguro](https://pagseguro.uol.com.br/), principalmente com Java.
+Trabalho como desenvolvedor 👨🏾‍💻 na [PagSeguro](https://pagseguro.uol.com.br/), principalmente com JavaScript e React.
 
 Como você pode me encontrar por aí como:
 
 [![LinkedIn Badge](https://img.shields.io/badge/-%2Fin%2Fguilhermebalog-blue?style=social&logo=Linkedin&logoColor=282a36&link=https://www.linkedin.com/in/guilhermebalog/)](https://www.linkedin.com/in/guilhermebalog/)
 [![Instagram Badge](https://img.shields.io/badge/-%2Fguilhermebalog-blue?style=social&logo=Instagram&logoColor=282a36&link=https://www.instagram.com/guilhermebalog/)](https://www.instagram.com/guilhermebalog/)
+[![Twitter Badge](https://img.shields.io/badge/-%2Fguibalog-blue?style=social&logo=Twitter&logoColor=282a36&link=https://twitter.com/guibalog)](https://twitter.com/guibalog)
 
 ### Minhas tecnologias preferidas do momento
 
