@@ -1,6 +1,6 @@
 ### Olá 👋🏾
 
-Meu nome é **Guilherme Balog Gardino** (ele/dele/he/his) e sou programador júnior, técnico em informática pela [ETEC de Itanhaém](https://www.etecitanhaem.com.br/) e atualmente cursando bacharelado em Sistemas de Informação pela [Universidade de São Paulo (USP)](https://www5.usp.br/).
+Meu nome é **Guilherme Balog Gardino** (ele/dele/he/his) e sou engenheiro de software, bacharel em Sistemas de Informação pela [Universidade de São Paulo (USP)](https://www5.usp.br/) e técnico em informática pela [ETEC de Itanhaém](https://www.etecitanhaem.com.br/).
 
 Trabalho como desenvolvedor 👨🏾‍💻 na [PagSeguro](https://pagseguro.uol.com.br/), principalmente com JavaScript e React.
 
