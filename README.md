@@ -1,8 +1,8 @@
-### Olá 👋🏾
+### Olá ✌🏾
 
 Meu nome é **Guilherme Balog Gardino** (ele/dele/he/his) e sou engenheiro de software, bacharel em Sistemas de Informação pela [Universidade de São Paulo (USP)](https://www5.usp.br/) e técnico em informática pela [ETEC de Itanhaém](https://www.etecitanhaem.com.br/).
 
-Trabalho como desenvolvedor 👨🏾‍💻 na [PagSeguro](https://pagseguro.uol.com.br/), principalmente com JavaScript e React.
+Trabalho como desenvolvedor 👨🏾‍💻 no [PagBank](https://pagseguro.uol.com.br/), principalmente com JavaScript e React.
 
 Como você pode me encontrar por aí como:
 
@@ -19,7 +19,7 @@ Como você pode me encontrar por aí como:
 ![HTML5](https://img.shields.io/badge/-HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=50fa7b)
 ![CSS3](https://img.shields.io/badge/-CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=50fa7b)
 
-### Outras tecnologias que já trabalhei
+### Outras tecnologias com as quais já trabalhei
 
 ![Java](https://img.shields.io/badge/-Java-0d1117?style=flat-square&logo=java&logoColor=f8f8f2)
 ![MySQL](https://img.shields.io/badge/-MySQL-0d1117?style=flat-square&logo=mysql&logoColor=f8f8f2)
